@@ -1,0 +1,10 @@
+C:\Users\nosgind\source\repos\Dingson_Oswell\Dingson_Oswell\bin\Debug\Dingson_Oswell.exe.config
+C:\Users\nosgind\source\repos\Dingson_Oswell\Dingson_Oswell\bin\Debug\Dingson_Oswell.exe
+C:\Users\nosgind\source\repos\Dingson_Oswell\Dingson_Oswell\bin\Debug\Dingson_Oswell.pdb
+C:\Users\nosgind\source\repos\Dingson_Oswell\Dingson_Oswell\obj\Debug\Dingson_Oswell.csproj.AssemblyReference.cache
+C:\Users\nosgind\source\repos\Dingson_Oswell\Dingson_Oswell\obj\Debug\Dingson_Oswell.Form1.resources
+C:\Users\nosgind\source\repos\Dingson_Oswell\Dingson_Oswell\obj\Debug\Dingson_Oswell.Properties.Resources.resources
+C:\Users\nosgind\source\repos\Dingson_Oswell\Dingson_Oswell\obj\Debug\Dingson_Oswell.csproj.GenerateResource.cache
+C:\Users\nosgind\source\repos\Dingson_Oswell\Dingson_Oswell\obj\Debug\Dingson_Oswell.csproj.CoreCompileInputs.cache
+C:\Users\nosgind\source\repos\Dingson_Oswell\Dingson_Oswell\obj\Debug\Dingson_Oswell.exe
+C:\Users\nosgind\source\repos\Dingson_Oswell\Dingson_Oswell\obj\Debug\Dingson_Oswell.pdb
