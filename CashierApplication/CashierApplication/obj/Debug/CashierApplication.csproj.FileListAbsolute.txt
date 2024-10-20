@@ -1,0 +1,10 @@
+C:\Users\nosgind\source\repos\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe.config
+C:\Users\nosgind\source\repos\CashierApplication\CashierApplication\bin\Debug\CashierApplication.exe
+C:\Users\nosgind\source\repos\CashierApplication\CashierApplication\bin\Debug\CashierApplication.pdb
+C:\Users\nosgind\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.AssemblyReference.cache
+C:\Users\nosgind\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.Form1.resources
+C:\Users\nosgind\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.Properties.Resources.resources
+C:\Users\nosgind\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.GenerateResource.cache
+C:\Users\nosgind\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.csproj.CoreCompileInputs.cache
+C:\Users\nosgind\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.exe
+C:\Users\nosgind\source\repos\CashierApplication\CashierApplication\obj\Debug\CashierApplication.pdb
