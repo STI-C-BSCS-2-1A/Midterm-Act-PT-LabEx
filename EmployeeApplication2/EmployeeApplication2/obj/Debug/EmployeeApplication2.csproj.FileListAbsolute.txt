@@ -1,0 +1,10 @@
+C:\Users\nosgind\source\repos\EmployeeApplication2\EmployeeApplication2\bin\Debug\EmployeeApplication2.exe.config
+C:\Users\nosgind\source\repos\EmployeeApplication2\EmployeeApplication2\bin\Debug\EmployeeApplication2.exe
+C:\Users\nosgind\source\repos\EmployeeApplication2\EmployeeApplication2\bin\Debug\EmployeeApplication2.pdb
+C:\Users\nosgind\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\EmployeeApplication2.csproj.AssemblyReference.cache
+C:\Users\nosgind\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\EmployeeApplication2.Properties.Resources.resources
+C:\Users\nosgind\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\EmployeeApplication2.csproj.GenerateResource.cache
+C:\Users\nosgind\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\EmployeeApplication2.csproj.CoreCompileInputs.cache
+C:\Users\nosgind\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\EmployeeApplication2.exe
+C:\Users\nosgind\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\EmployeeApplication2.pdb
+C:\Users\nosgind\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\EmployeeApplication2.Form1.resources
